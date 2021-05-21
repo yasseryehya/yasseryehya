@@ -61,7 +61,7 @@ class _HomePageState extends State<HomePage> {
               children: [
                 Container(
                   child: SizedBox(
-                    height: screenSize.height * 0.45,
+                    height: screenSize.height * 0.44,
                     width: screenSize.width,
                     child: Image.asset(
                       'assets/images/cover.jpg',
