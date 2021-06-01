@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yasseryehya
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning SOC & ethical hacking 
-- 💞️ I’m looking to collaborate on challenging programming projects 
+- 👀 interested in programming 
+- 🌱 currently learning SOC & ethical hacking 
+- 💞️ looking to collaborate on challenging programming projects 
 - 📫 How to reach me https://www.linkedin.com/in/yasser-yahia-34962a206
 
 <!---
